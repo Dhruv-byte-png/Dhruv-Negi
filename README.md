@@ -65,12 +65,12 @@ Data Structures & Algorithms
 Computer Vision
 Backend Development
 Problem Solving
-
+```
 ### 🔗 Let's Connect
 I’m always excited to connect with like-minded developers and tech enthusiasts!
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/dhruv-negi-981b7637b/" target="_blank">
+  <a href="https://https://https://www.linkedin.com/in/dhruv-negi-981b7637b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPutY9phERleK6Glqbx4Gjg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://https://leetcode.com/u/Dhruv_negi_14/" target="_blank">
