@@ -22,6 +22,7 @@ I enjoy building things, breaking them, figuring out why they broke, and then pr
 - 🧩 Interested in problem solving and intelligent systems
 - 🎯 Always learning something new
 
+- 📧 Get in touch: **nvidiadhruv11@gmail.com**
 ---
 
 ### 🛠️ Languages & Technologies
