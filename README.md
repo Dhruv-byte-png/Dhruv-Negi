@@ -1,50 +1,110 @@
-<h1 align="center">👋 Hey there, I'm Gunjan!</h1>
+<h1 align="center">👋 Hey, I'm Dhruv!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Exploring%20the%20digital%20world%20with%20code!;&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Enthusiast;Problem+Solver;Tech+Explorer;Building+things+with+code!&center=true&width=500&height=50">
 </p>
 
-<h3 align="center">  Problem Solver | Tech Explorer</h3>
+<h3 align="center">AI Enthusiast | Problem Solver | Developer</h3>
 
 ---
 
-### 🌍 About Me
+### 🧠 About Me
 
-I’m a B.Tech student , diving into everything tech-related from crafting sleek web apps to wrestling with data structures. Fueled by curiosity and a zest for learning (not by coffee).
+I'm a B.Tech student and an AI enthusiast who enjoys turning ideas into working projects.
 
+I'm currently exploring **Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and Full-Stack Development** while constantly learning new technologies.
 
-- 📧 Get in touch: **gunjanbhanwal21@gmail.com**
-- ⚡ And when I’m not coding, you’ll probably find me binge-watching , the best debugging instincts come from plot twists!
+I enjoy building things, breaking them, figuring out why they broke, and then pretending that was part of the plan. :)
 
-### 🌍 Tools and Technologies 
-<p align="center">
-  <!-- Tools and Technologies Logos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
-</p>
+- 🤖 Exploring **AI & Machine Learning**
+- 💻 Practicing **Data Structures & Algorithms**
+- 🚀 Building projects to learn by doing
+- 🧩 Interested in problem solving and intelligent systems
+- 🎯 Always learning something new
 
+---
 
-### 🔗 Let's Connect
-I’m always excited to connect with like-minded developers and tech enthusiasts!
+### 🛠️ Languages & Technologies
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gunjanbhanwal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/gunjan_bhanwal/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Competitive%20Coding-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+     alt="Python" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+     alt="C++" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+     alt="Java" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+     alt="JavaScript" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+     alt="HTML5" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+     alt="CSS3" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+     alt="FastAPI" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+     alt="Git" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+     alt="GitHub" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+     alt="VS Code" width="50" height="50"/>
+
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 KhelAI
+AI-powered sports talent assessment platform using computer vision to analyze athletic performance.
+
+**Tech:** Python • Computer Vision • AI/ML
+
+---
+
+#### 🌐 Creator Portfolio Builder
+A full-stack web application that allows users to create and customize their own portfolio websites.
+
+**Tech:** HTML • CSS • JavaScript • FastAPI • SQL
+
+---
+
+#### 🧠 Machine Learning Model
+My first machine learning project, built while learning the complete ML workflow — from preprocessing data to training and evaluating a model.
+
+**Tech:** Python • Pandas • Scikit-learn • Jupyter
+
+---
+
+#### 🎮 Tetris Game
+A C++ implementation of the classic Tetris game.
+
+**Tech:** C++
+
+---
+
+#### 🎵 Album Finder
+A JavaScript project that uses the Spotify Web API to search and display albums.
+
+**Tech:** JavaScript • HTML • CSS • Spotify API
+
+---
+
+### 📚 Currently Learning
+
+```text
+Artificial Intelligence
+Machine Learning
+Data Structures & Algorithms
+Computer Vision
+Backend Development
+Problem Solving
