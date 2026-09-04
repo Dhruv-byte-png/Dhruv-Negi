@@ -68,43 +68,6 @@ I enjoy building things, breaking them, figuring out why they broke, and then pr
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🤖 KhelAI
-AI-powered sports talent assessment platform using computer vision to analyze athletic performance.
-
-**Tech:** Python • Computer Vision • AI/ML
-
----
-
-#### 🌐 Creator Portfolio Builder
-A full-stack web application that allows users to create and customize their own portfolio websites.
-
-**Tech:** HTML • CSS • JavaScript • FastAPI • SQL
-
----
-
-#### 🧠 Machine Learning Model
-My first machine learning project, built while learning the complete ML workflow — from preprocessing data to training and evaluating a model.
-
-**Tech:** Python • Pandas • Scikit-learn • Jupyter
-
----
-
-#### 🎮 Tetris Game
-A C++ implementation of the classic Tetris game.
-
-**Tech:** C++
-
----
-
-#### 🎵 Album Finder
-A JavaScript project that uses the Spotify Web API to search and display albums.
-
-**Tech:** JavaScript • HTML • CSS • Spotify API
-
----
-
 ### 📚 Currently Learning
 
 ```text
